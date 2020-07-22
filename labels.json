@@ -1,0 +1,81 @@
+[{
+    "name": "bug",
+    "color": "EE3F46"
+}, {
+    "name": "security",
+    "color": "#EE3F46"
+}, {
+    "name": "production",
+    "color": "EE3F46"
+}, 
+{
+    "name": "enhancement",
+    "color": "5EBEFF"
+}, {
+    "name": "optimization",
+    "color": "5EBEFF"
+},
+{
+    "name": "feature",
+    "color": "91CA55"
+}, 
+{
+    "name": "discussion",
+    "color": "CC317C"
+}, {
+    "name": "question",
+    "color": "CC317C"
+}, {
+    "name": "community",
+    "color": "CC317C"
+}, 
+{
+    "name": "test",
+    "color": "FAD8C7"
+}, {
+    "name": "staging",
+    "color": "FAD8C7"
+}, 
+{
+    "name": "design",
+    "color": "FFC274"
+}, {
+    "name": "ux",
+    "color": "FFC274"
+}, 
+{
+    "name": "chore",
+    "color": "FEF2C0"
+}, {
+    "name": "legal",
+    "color": "FEF2C0"
+}, {
+    "name": "documentation",
+    "color": "FEF2C0"
+},
+{
+    "name": "invalid",
+    "color": "D2DAE1"
+}, {
+    "name": "wontfix",
+    "color": "D2DAE1"
+}, {
+    "name": "duplicate",
+    "color": "D2DAE1"
+}, {
+    "name": "deprecated",
+    "color": "D2DAE1"
+}, 
+{
+    "name": "help wanted",
+    "color": "FBCA04"
+}, {
+    "name": "in progress",
+    "color": "FBCA04"
+}, {
+    "name": "on hold",
+    "color": "FBCA04"
+}, {
+    "name": "watchlist",
+    "color": "FBCA04"
+}]
