@@ -24,7 +24,7 @@ For clarity, use only one of these labels! if you feel that you need to use more
 These can be attached to the ones above to give more context:
 
 * `#BFD4F2` Platform (can exceptionally be customized to group issues): `server` `browser` `android` `ios` `web` 
-* `#FBCA04` Pending (stalled by difficulty or external): `help wanted` `in progress` `on hold` `watchlist`
+* `#FBCA04` State (stalled by difficulty or external): `help wanted` `in progress` `on hold` `watchlist`
 
 ---
 
