@@ -66,7 +66,7 @@ No action needed or possible. The issue is either fixed, addressed better by oth
 
 **Platform**
 
-If the repository covers multiple parts, this is how we designate where the issue lives. (i.e. iOS or Android).
+If the repository covers multiple parts, this is how you designate where the issue lives. (i.e. iOS or Android).
 
 **State**
 
