@@ -30,7 +30,7 @@ Optionally: These can be attached to the ones above to give more context:
 
 **Label Groups**
 
-We group labels by color, according to broad themes. Labels are consistent across repositories, except for a few language specific topics. This makes switching between projects easy, since you don't need domain expertise in order to write an issue. New team members can learn the system once, and use it everywhere.
+Your should group labels by color, according to broad themes. Labels are consistent across repositories, except for a few language specific topics. This makes switching between projects easy, since you don't need domain expertise in order to write an issue. New team members can learn the system once, and use it everywhere.
 
 **Problems**
 
